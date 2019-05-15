@@ -1,18 +1,19 @@
 const { readFile, existsSync } = require('fs')
 const { join, dirname } = require('path')
 const glob = require('glob')
-const yaml = require('yaml').default
+// const yaml = require('yaml').default
+const yaml = require('yaml')
 const puppeteer = require('puppeteer')
 
 const baseUrl = process.argv[2] || 'http://localhost:8000/'
 
 const takeScreenshot = async (url, width, height, destination) => {
   const browser = await puppeteer.launch({
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
+    args: ['--no-sandbox', '--disable-setuid-sandbox'],
   })
   const page = await browser.newPage()
   await page.goto(url, {
-    waitUntil: 'networkidle2'
+    waitUntil: 'networkidle2',
   })
   await page.screenshot({
     path: destination,
@@ -20,8 +21,8 @@ const takeScreenshot = async (url, width, height, destination) => {
       x: 0,
       y: 0,
       width,
-      height
-    }
+      height,
+    },
   })
 
   await browser.close()
@@ -44,7 +45,7 @@ const parseFile = async file => {
       return resolve({
         ...data,
         file,
-        directory: dirname(file)
+        directory: dirname(file),
       })
     })
   })
