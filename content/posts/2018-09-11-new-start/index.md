@@ -2,9 +2,9 @@
 title: New start
 slug: 2018-09-11-new-start
 date: 2018-09-11
-cover: ./cover.jpg
-imageTw: ./cover.jpg
-imageFb: ./cover.jpg
+cover: ./markus-spiske-1381441-unsplash.jpg
+imageTw: ./markus-spiske-1381441-unsplash.jpg
+imageFb: ./markus-spiske-1381441-unsplash.jpg
 generate-card: true
 language: en
 tags:

@@ -12,7 +12,7 @@ module.exports = {
   disqusSiteUrl: 'https://tkhwang.netlify.com',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/blog', // Note: it must *not* have a trailing slash.
-  siteCover: '/images/cover.jpg',
+  siteCover: '/images/nikita-kachanovsky-445394-unsplash.jpg',
   googleAnalyticsId: 'UA-67868977-1',
   background_color: '#ffffff',
   theme_color: '#222222',
