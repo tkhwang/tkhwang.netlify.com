@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Supari 守破離 for Fun and Profit',
-  siteDescription: '👋 Learn, Practice and Repeat.',
+  siteDescription: 'Learn, Practice and Repeat.',
   authorName: 'tkhwang',
   twitterUsername: 'tkhwang',
   authorAvatar: '/images/avatar.jpeg',

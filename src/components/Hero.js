@@ -22,8 +22,18 @@ const TitleContainer = styled.div`
 `
 
 const HeroTitle = styled.h1`
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 700;
   font-size: 3rem;
+  margin: 10px 60px;
+  color: #fff;
+  text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
+`
+
+const HeroDescription = styled.h1`
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
   margin: 10px 60px;
   color: #fff;
   text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
@@ -32,12 +42,13 @@ const HeroTitle = styled.h1`
 class Hero extends React.Component {
   render() {
     const heroImg = this.props.heroImg || withPrefix(siteConfig.siteCover)
-    const { title } = this.props
+    const { title, description } = this.props
 
     return (
       <HeroContainer style={{ backgroundImage: `url("${heroImg}")` }}>
         <TitleContainer>
           <HeroTitle>{title}</HeroTitle>
+          <HeroDescription>{description}</HeroDescription>
         </TitleContainer>
       </HeroContainer>
     )
