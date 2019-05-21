@@ -6,7 +6,7 @@ cover: ./markus-spiske-1381441-unsplash.jpg
 imageTw: ./2018-09-11-new-start-tw.png
 imageFb: ./2018-09-11-new-start-fb.png
 generate-card: true
-language: en
+language: kor
 tags:
   - talk
 ---

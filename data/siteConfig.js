@@ -9,7 +9,7 @@ module.exports = {
   make something fun
   `,
   siteUrl: 'https://tkhwang.netlify.com',
-  disqusSiteUrl: 'https://tkhwang.netlify.com',
+  disqusSiteUrl: 'https://tkhwang.netlify.com/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/blog', // Note: it must *not* have a trailing slash.
   siteCover: '/images/nikita-kachanovsky-445394-unsplash.jpg',

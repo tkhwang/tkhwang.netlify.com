@@ -30,7 +30,7 @@ const HeroTitle = styled.h1`
   text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
 `
 
-const HeroDescription = styled.h1`
+const HeroDescription = styled.h2`
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 700;
   font-size: 2rem;

@@ -10,7 +10,7 @@ export const GlobalStyle = createGlobalStyle`
 }
 
 body {
-  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Noto Sans KR', sans-serif;
   color: #222222cc;
   background-color: #e8e8e8;
 }
