@@ -1,7 +1,7 @@
 ---
 title: Projects
 slug: projects
-cover: ./cover.png
+cover: ./jo-szczepanska-1163258-unsplash.jpg
 disqus: true
 type: page
 ---

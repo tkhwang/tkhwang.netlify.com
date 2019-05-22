@@ -1,7 +1,7 @@
 ---
 title: 'About ?'
 slug: about
-cover: ./felicia-buitenwerf-1493421-unsplash.jpg
+cover: ./masaaki-komori-569059-unsplash.jpg
 date: 2019-05-22
 language: en
 disqus: true
