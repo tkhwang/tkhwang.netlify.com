@@ -6,24 +6,27 @@ disqus: true
 type: page
 ---
 
-## [LMS (Learning Management System)](./projects/learnco/) :
+## [LMS (Learning Management System) for programming education](./projects/learnco/)
 
-- [🏠 learnco.codestates.com](https://learnco.codestates.com/), [📝 detail](./projects/learnco/)
+- [🏠 learnco.codestates.com](https://learnco.codestates.com/)
+- [📝 detailed page](./projects/learnco/)
 - @codestates / Feb. 2019 ~ May. 2019
-- What I did...
 - Full-stack development
   - Front-end : React, Javascript
   - Back-end : Node, Express, GraphQL, Sequelize, MySQL
   - DevOps : AWS EC2, S3, ELB, Cloudfront, Scotty, CircleCI
+- Major activities
+  - Add user inter-action : user study status and feedback on the study material.
 
-## Studystates : [dev.studystates.net](https://dev.studystates.net/)
+## [Studystates site](./projects/studystates)
 
+- [🏠 dev.studystates.net](https://dev.studystates.net/)
 - @codestates / Feb. 2019 ~ May. 2019
 - Codestate's study business home page
 - Back-end \& DevOps development
+  - Front-end : React, Gatsby, NetlifyCMS, Styled component
   - Back-end: Typescript, Node, express, passport
   - DevOps : AWS EC2, S3, ELB, Scotty, CircleCI
-  - (Reference) Front-end : React, Gatsby, NetlifyCMS, Styled component
 
 ## [Study support for self-taught learner](./projects/joy-learn)
 

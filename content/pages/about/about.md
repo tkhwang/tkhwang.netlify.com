@@ -2,13 +2,17 @@
 title: 'About ?'
 slug: about
 cover: ./felicia-buitenwerf-1493421-unsplash.jpg
-date: 2018-09-30
+date: 2019-05-22
 language: en
 disqus: true
 type: page
 ---
 
-## [PGP@keybase](https://keybase.io/tkhwang)
+### Who am I ?
+
+![img](https://avatars2.githubusercontent.com/u/365500?s=150&v=4)
+
+[PGP@keybase](https://keybase.io/tkhwang)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
