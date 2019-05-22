@@ -24,16 +24,16 @@ const TitleContainer = styled.div`
 const HeroTitle = styled.h1`
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 2.2rem;
   margin: 10px 60px;
-  color: #fff;
-  text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);
+  color: #000;
+  text-shadow: 1px 1px 4px #ffffff;
 `
 
 const HeroDescription = styled.h2`
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 700;
-  font-size: 2rem;
+  font-size: 1.6rem;
   margin: 10px 60px;
   color: #fff;
   text-shadow: 1px 1px 4px rgba(34, 34, 34, 0.6);

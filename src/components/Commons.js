@@ -30,7 +30,8 @@ a {
 ul,
 ol {
   padding-left: 2em;
-  margin: 1em 0 0 0;
+  ${'' /* margin: 1em 0 0 0; */}
+  margin: 0 0 0 0;
 }
 `
 export const StyledLink = styled(Link)`
