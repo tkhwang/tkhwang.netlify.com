@@ -22,41 +22,38 @@ module.exports = {
   disqusShortname: 'tkhwang-netlify',
   headerLinks: [
     {
-      label: '🏡',
+      label: '✍️  Blog',
       url: '/',
     },
     {
-      label: 'Blog',
-      url: '/',
-    },
-    {
-      label: 'Projects',
+      label: '🗄 Projects',
       url: '/projects',
     },
+
     {
-      label: 'About',
+      label: '👨🏻‍💻 About',
       url: '/about',
     },
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
-    name: 'GitHub',
-    url: 'https://github.com',
+    name: 'Netlify',
+    url: 'https://netlify.com',
   },
   footerLinks: [
     [
       'Explore',
       {
-        label: 'Blog',
+        label: '✍️  Blog',
         url: '/',
       },
       {
-        label: 'About',
-        url: '/gatsby-starter-morning-dew',
+        label: '🗄 Projects',
+        url: '/projects',
       },
       {
-        label: 'Installation',
-        url: '/how-to-install',
+        label: '👨🏻‍💻 About',
+        url: '/about',
       },
     ],
     [
