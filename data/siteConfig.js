@@ -13,12 +13,12 @@ module.exports = {
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
   pathPrefix: '/blog', // Note: it must *not* have a trailing slash.
   siteCover: '/images/nikita-kachanovsky-445394-unsplash.jpg',
-  googleAnalyticsId: 'UA-67868977-1',
+  googleAnalyticsId: 'UA-53228773-4',
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
   icon: 'src/assets/gatsby-icon.png',
-  postsPerPage: 6,
+  postsPerPage: 8,
   disqusShortname: 'tkhwang-netlify',
   headerLinks: [
     {

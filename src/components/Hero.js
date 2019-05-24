@@ -26,8 +26,8 @@ const HeroTitle = styled.h1`
   font-weight: 700;
   font-size: 2.2rem;
   margin: 10px 60px;
-  color: #000;
-  text-shadow: 1px 1px 4px #ffffff;
+  color: #ff9f43;
+  text-shadow: 1px 1px 4px #000;
 `
 
 const HeroDescription = styled.h2`
