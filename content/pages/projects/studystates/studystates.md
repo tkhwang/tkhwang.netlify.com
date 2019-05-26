@@ -7,10 +7,13 @@ type: page
 ---
 
 - @codestates / Feb. 2019 ~ May. 2019
-- Backend development
-  - Front-end : React, Gatsby, NetlifyCMS, Styled component
-  - Back-end: Typescript, Node, express, passport
-  - DevOps : AWS EC2, S3, ELB, Scotty, CircleCI
+- Site : [🏠 dev.studystates.net](https://dev.studystates.net/)
+- Technologies
+  - Front-end : React, Gatsby, NetlifyCMS, Styled component, UI (Ant Design)
+  - Back-end: Typescript, Node, express, TypeORM, MySQL, Passport
+  - DevOps : AWS EC2/ELB, CircleCI, Netlify
+- Major activities
+  - Back-end & DevOps development
 
 ## #1. Authentication and social login using passport
 

@@ -12,7 +12,7 @@ type: page
   - Back-end : Node, Express, GraphQL, Sequelize, MySQL
   - DevOps : AWS EC2, S3, ELB, Cloudfront, Scotty, CircleCI
 - Feature
-  - Provide community opinnioned information : Instructor, Book, Lecture on each topic and Course for self-taught learner.
+  - Provide community opinionated information : Instructor, Book, Lecture on each topic and Course for self-taught learner.
 
 ![home page](https://user-images.githubusercontent.com/365500/58070386-d1d19500-7bd3-11e9-858a-2d8426241dcc.png)
 
