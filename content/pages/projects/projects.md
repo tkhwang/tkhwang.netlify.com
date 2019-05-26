@@ -20,7 +20,7 @@ type: page
 
 [![img](./learnco/learnco-home.png)](./projects/learnco/)
 
-## [Study community for self-taught learner](./projects/joy-learn)
+## [Study contents recommendation and sharing service for self-taught learner](./projects/joy-learn)
 
 - @codestates / Dec. 2018 ~ Jan. 2019
 - Site : [🏠joy-learn.com](https://joy-learn.com)
@@ -32,7 +32,7 @@ type: page
 
 [![img](https://user-images.githubusercontent.com/365500/58070386-d1d19500-7bd3-11e9-858a-2d8426241dcc.png)](./projects/joy-learn)
 
-## [Renewal studystates.net site](./projects/studystates)
+## [Renewal studystates.net for efficient contents editing](./projects/studystates)
 
 - @codestates / Feb. 2019 ~ May. 2019
 - Site : [🏠 dev.studystates.net](https://dev.studystates.net/)
@@ -44,6 +44,13 @@ type: page
   - Back-end \& DevOps development
 
 [![img](https://user-images.githubusercontent.com/365500/58165989-cfe6ff00-7cc3-11e9-803c-3e97c8d6aa40.gif)](./projects/studystates)
+
+## [HW Security 기반 상호 인증 TLS 이용한 SKT IoT PKI 구축 및 운영](./projects/iot-pki)
+
+- [🏠 SKT-IoT-PKI 안내 페이지 iotpki.sktelecom.com/](http://iotpki.sktelecom.com/)
+- @SKTelecom, March. 2017 ~ Dec. 2017
+
+[![img](https://raw.githubusercontent.com/tkhwang/tkhwang-etc/master/img/2017/iot-pki/skt-iot-pki-overview.png)](./projects/iot-pki)
 
 ## [Security CTF (Capture The Flag) for hobby](./projects/ctf)
 

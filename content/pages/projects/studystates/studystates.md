@@ -1,7 +1,7 @@
 ---
 title: project - studystates
 slug: projects/studystates
-cover: ./learnco-home.png
+cover:
 disqus: true
 type: page
 ---

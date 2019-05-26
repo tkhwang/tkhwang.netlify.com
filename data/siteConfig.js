@@ -6,7 +6,10 @@ module.exports = {
   authorAvatar: '/images/avatar.jpeg',
   multilangPosts: true, // enable/disable flags in post lists
   authorDescription: `
-  make something fun
+
+  What I like :
+  likes unique, beautiful,
+
   `,
   siteUrl: 'https://tkhwang.netlify.com',
   disqusSiteUrl: 'https://tkhwang.netlify.com/',
